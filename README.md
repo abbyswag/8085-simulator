@@ -1,19 +1,33 @@
 # 8085 + 8255 Simulatior
 
-Main Application: Emulator.py
+Main Application: app
 
-## Project Report
+## Authors
+- Bibek Dahal
+- Abhishek Singh
 
-### Acknowledgement
-
-We would like to thank **Deparment of Electronics and Computer Engineering**, Central Campus, Pulchowk, specially **Mr. Dinesh Baniya Kshatri** for providing us an opportunity to work in this project and to learn many important concepts on hardware simulation, assembling and 8085/8255 programming.
-
-Thanks to everyone for helping and supporting us in this project.
+Thank you for supporting this project to
 
 - Ayush Shakya
 - Bhawana Piryani
 - Bibek Dahal
 - Bibek Koirala
+
+### Installation
+Make sure python and pip are installed in your system
+
+>>>python --version
+>>>pip --version
+
+For linux (ubuntu and other distribution)
+>>>git clone https://github.com/abbyswag/8085-simulator.git
+>>>cd 8085-simulator
+>>>python3 app
+
+For windows
+>>>git clone https://github.com/abbyswag/8085-simulator.git
+>>>cd 8085-simulator
+>>>python app
 
 ### Introduction
 
@@ -100,10 +114,6 @@ For data sorting, selection sort and bubble sort are both implemented. These fun
         * If a[i-1] < a[i]
             * Swap(A[i-1], A[i])
             * swapped = True
-
-### Source Code
-
-TODO
 
 ### GUI Snapshots
 

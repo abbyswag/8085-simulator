@@ -727,8 +727,7 @@ class Window(Gtk.Window):
 
 import platform
 GObject.threads_init()
-if platform.system() == 'Linux':
-    Gdk.threads_init()
+Gdk.threads_init()
 win=Window()
 win.connect("delete-event",Gtk.main_quit)
 win.show_all()
