@@ -16,18 +16,22 @@ Thank you for supporting this project to
 ### Installation
 Make sure python and pip are installed in your system
 
->>>python --version
->>>pip --version
+>>>$ python --version
+>>>$ pip --version
 
 For linux (ubuntu and other distribution)
->>>git clone https://github.com/abbyswag/8085-simulator.git
->>>cd 8085-simulator
->>>python3 app
+>>>$ git clone https://github.com/abbyswag/8085-simulator.git
+>>>$ cd 8085-simulator
+>>>$ python3 app
 
 For windows
->>>git clone https://github.com/abbyswag/8085-simulator.git
->>>cd 8085-simulator
->>>python app
+>>>$ git clone https://github.com/abbyswag/8085-simulator.git
+>>>$ cd 8085-simulator
+>>>$ python app
+
+### Web Implementation
+
+Under Development...
 
 ### Introduction
 
